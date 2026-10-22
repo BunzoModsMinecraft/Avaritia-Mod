@@ -3,11 +3,11 @@
     "ads":  {
                 "enabled":  true,
                 "admob":  {
-                              "appOpen":  "ca-app-pub-8442659997090063/3386116124",
-                              "banner":  "ca-app-pub-8442659997090063/3577687817",
-                              "interstitial":  "ca-app-pub-8442659997090063/3633528136",
-                              "rewarded":  "ca-app-pub-8442659997090063/9890321430",
-                              "native":  "ca-app-pub-8442659997090063/8686544261"
+                              "appOpen":  "ca-app-pub-8442659997090063/8277856865",
+                              "banner":  "ca-app-pub-8442659997090063/5890744553",
+                              "interstitial":  "ca-app-pub-8442659997090063/2254751872",
+                              "rewarded":  "ca-app-pub-8442659997090063/6908312752",
+                              "native":  "ca-app-pub-8442659997090063/9590938539"
                           },
                 "levelPlay":  {
                                   "enabled":  true,
@@ -49,9 +49,9 @@
                 },
     "privacyPolicyUrl":  "https://pages.flycricket.io/bunzo-mods-and-addon/privacy.html",
     "theme":  {
-                  "preset":  "ember",
-                  "font":  "nunito",
-                  "uiScale":  1.01,
+                  "preset":  "ocean",
+                  "font":  "manrope",
+                  "uiScale":  0.99,
                   "layout":  "mosaic"
               }
 }
